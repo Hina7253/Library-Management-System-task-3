@@ -1,6 +1,6 @@
 # Library Management System – Task 3 (Elevate Labs)
 
-**Author:** Hina Kumari  
+**Author:** Hina  
 **Internship:** Elevate Labs  
 
 ## Overview
